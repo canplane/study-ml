@@ -1,0 +1,8 @@
+in
+out
+a.out
+
+.ipynb_checkpoints
+.vscode/
+
+.DS_Store
